@@ -341,10 +341,6 @@ Agent: *remembers previous result from context*
 4. Add authentication
 5. Use `make run` instead of `make dev`
 
-## 📝 License
-
-MIT
-
 ---
 
 Built with FastAPI, LiteLLM, SQLAlchemy, and uv 🚀
